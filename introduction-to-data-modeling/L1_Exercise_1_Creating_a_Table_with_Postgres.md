@@ -1,8 +1,6 @@
 
 # Lesson 1 Exercise 1: Creating a Table with PostgreSQL
 
-<img src="images/postgresSQLlogo.png" width="250" height="250">
-
 ### Walk through the basics of PostgreSQL. You will need to complete the following tasks:<li> Create a table in PostgreSQL, <li> Insert rows of data <li> Run a simple SQL query to validate the information. <br>
 `#####` denotes where the code needs to be completed. 
 
